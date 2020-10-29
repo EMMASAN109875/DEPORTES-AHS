@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,ESPN-SUR
+https://e10.habrox.xyz/ingestnb4s/espn_sur/d.m3u8
+#EXTINF:-1 ,ESPN2-SUR
+https://e10.habrox.xyz/ingestnb4s/espn2_sur/d.m3u8
+#EXTINF:-1 ,ESPN3-SUR
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/d.m3u8
+#EXTINF:-1 ,DIRECTV SPORTS
+https://e6.habrox.xyz/ingest01/67118.m3u8
